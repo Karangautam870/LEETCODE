@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karangautam870/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karangautam870/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
 | ------- |
