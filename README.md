@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Karangautam870/LEETCODE/tree/master/0679-24-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karangautam870/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Karangautam870/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
