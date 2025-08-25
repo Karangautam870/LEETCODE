@@ -11,16 +11,15 @@ public:
             }
         }
 
-        bool f = 1;
-
+        bool flip = 1;
         for (int i = 0; i < mp.size(); i++) {
-            if (f) {
+            if (flip) {
                 reverse(mp[i].begin(), mp[i].end());
             }
             for (int val : mp[i]) {
                 ans.push_back(val);
             }
-            f = (f == 0) ? 1 : 0;
+            flip = !flip;
         }
 
         return ans;
