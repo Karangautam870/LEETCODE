@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Karangautam870/LEETCODE/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/Karangautam870/LEETCODE/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karangautam870/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karangautam870/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Karangautam870/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Karangautam870/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Karangautam870/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Karangautam870/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
