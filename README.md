@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karangautam870/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Karangautam870/LEETCODE/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
