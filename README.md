@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karangautam870/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Karangautam870/LEETCODE/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Karangautam870/LEETCODE/tree/master/0342-power-of-four) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Karangautam870/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
