@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Karangautam870/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karangautam870/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
