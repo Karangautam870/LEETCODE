@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karangautam870/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Karangautam870/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Karangautam870/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karangautam870/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karangautam870/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karangautam870/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karangautam870/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
