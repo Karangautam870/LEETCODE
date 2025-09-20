@@ -3,7 +3,7 @@ public:
     map<vector<int>, int> mpp; // to track duplicates
     queue<vector<int>> queue;
     unordered_map<int, vector<int>> timestamps; // for timestamps tracking
-    unordered_map<int, int> mp;
+    unordered_map<int, int> mp; // no of packetes removed for destination
     int lt; 
 
     bool addPacket(int source, int destination, int timestamp) {
@@ -15,9 +15,11 @@ public:
 
         if (queue.size() >= lt) { 
             vector<int> res = queue.front();
+            // erasing the packet
             mpp.erase(res);
-            int temp = res[1];
-            mp[temp]++;
+
+            mp[res[1]]++;
+
             queue.pop();
         }
 
@@ -37,8 +39,7 @@ public:
         queue.pop();
         mpp.erase(res);
 
-        int temp = res[1];
-        mp[temp]++;
+        mp[res[1]]++;
 
         return res;
     }
