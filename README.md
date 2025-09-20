@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Karangautam870/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Karangautam870/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karangautam870/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Karangautam870/LEETCODE/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Karangautam870/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karangautam870/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 ## Brainteaser
 |  |
 | ------- |
@@ -216,9 +220,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Karangautam870/LEETCODE/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Karangautam870/LEETCODE/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Karangautam870/LEETCODE/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Karangautam870/LEETCODE/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
