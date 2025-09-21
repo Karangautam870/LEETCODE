@@ -7,9 +7,8 @@ public:
         int mini = *min_element(nums.begin(),nums.end());
         int maxi = *max_element(nums.begin(),nums.end());
         
-        for(int i = 0;i < k;i++){
-            ans += maxi - mini;
-        }
+        
+        ans += 1LL * (maxi - mini) * k;
         return ans;
     }
 };
