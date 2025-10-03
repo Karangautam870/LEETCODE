@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karangautam870/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0282-expression-add-operators](https://github.com/Karangautam870/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Karangautam870/LEETCODE/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Karangautam870/LEETCODE/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Karangautam870/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karangautam870/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/Karangautam870/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0679-24-game](https://github.com/Karangautam870/LEETCODE/tree/master/0679-24-game) |
 ## Dynamic Programming
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karangautam870/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/Karangautam870/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karangautam870/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0282-expression-add-operators](https://github.com/Karangautam870/LEETCODE/tree/master/0282-expression-add-operators) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karangautam870/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
