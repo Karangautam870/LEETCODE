@@ -3,7 +3,8 @@ public:
     int n;
     vector<vector<int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
-    bool dfs(vector<vector<int>>& grid, vector<vector<bool>>& vis, int i, int j, int limit) {
+    bool dfs(vector<vector<int>>& grid, vector<vector<bool>>& vis, int i, int j,
+             int mid) {
         if (i == n - 1 && j == n - 1) {
             return true;
         }
@@ -13,8 +14,10 @@ public:
         for (auto& dir : dirs) {
             int i_ = i + dir[0];
             int j_ = j + dir[1];
-            if (i_ >= 0 && i_ < n && j_ >= 0 && j_ < n && !vis[i_][j_] && grid[i_][j_]<=limit) {
-                if (dfs(grid, vis, i_, j_, limit)) {
+
+            if (i_ >= 0 && i_ < n && j_ >= 0 && j_ < n && !vis[i_][j_] &&
+                grid[i_][j_] <= mid) {
+                if (dfs(grid, vis, i_, j_, mid)) {
                     return true;
                 }
             }
