@@ -19,9 +19,9 @@ public:
     vector<int> successfulPairs(vector<int>& s, vector<int>& p, long long k) {
 
         vector<int> ans(s.size(), 0);
+
         sort(p.begin(), p.end());
 
-        unordered_map<int, int> mp;
         for (int i = 0; i < s.size(); i++) {
             ans[i] = solve(p, s[i], k);
         }
