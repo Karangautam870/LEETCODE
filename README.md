@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Karangautam870/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Karangautam870/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Karangautam870/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Karangautam870/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Karangautam870/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karangautam870/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karangautam870/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Karangautam870/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Karangautam870/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 |  |
