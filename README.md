@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Karangautam870/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Karangautam870/LEETCODE/tree/master/0679-24-game) |
+| [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Karangautam870/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Karangautam870/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Karangautam870/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0744-network-delay-time](https://github.com/Karangautam870/LEETCODE/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Graph
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Karangautam870/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Karangautam870/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karangautam870/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Karangautam870/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karangautam870/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Karangautam870/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karangautam870/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/Karangautam870/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karangautam870/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karangautam870/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
