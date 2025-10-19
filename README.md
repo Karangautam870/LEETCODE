@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Karangautam870/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Karangautam870/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Karangautam870/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0744-network-delay-time](https://github.com/Karangautam870/LEETCODE/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Graph
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karangautam870/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karangautam870/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Karangautam870/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
