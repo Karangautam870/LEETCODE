@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Karangautam870/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Karangautam870/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Karangautam870/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Karangautam870/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karangautam870/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Karangautam870/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Karangautam870/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Karangautam870/LEETCODE/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Karangautam870/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karangautam870/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Karangautam870/LEETCODE/tree/master/3336-water-bottles-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Karangautam870/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karangautam870/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Karangautam870/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Karangautam870/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/Karangautam870/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Karangautam870/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
