@@ -14,7 +14,7 @@ public:
             diff[l]++;
             diff[r+1]--;
 
-            diff[nums[i]] += 0; //Focus
+            diff[nums[i]] += 0; 
         }
 
 
