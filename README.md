@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/Karangautam870/LEETCODE/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Karangautam870/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Karangautam870/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Karangautam870/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Karangautam870/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Karangautam870/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Karangautam870/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karangautam870/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Karangautam870/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Karangautam870/LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Karangautam870/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karangautam870/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Karangautam870/LEETCODE/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
