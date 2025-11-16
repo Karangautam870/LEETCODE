@@ -13,7 +13,6 @@ public:
                 temp = 0;
             }
         }
-        ans = (ans + temp * (temp + 1) / 2) %  mod;
-        return ans;
+        return (ans + temp * (temp + 1) / 2) %  mod;
     }
 };
