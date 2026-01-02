@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/Karangautam870/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Karangautam870/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Karangautam870/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Karangautam870/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Karangautam870/LEETCODE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karangautam870/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karangautam870/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0753-open-the-lock](https://github.com/Karangautam870/LEETCODE/tree/master/0753-open-the-lock) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Karangautam870/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Karangautam870/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/Karangautam870/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Karangautam870/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
